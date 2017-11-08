@@ -1,0 +1,136 @@
+docdoc:
+  library:
+    - text: Акушерство
+      link: /library/akusherstvo
+
+    - text: Аллергология
+      link: /library/allergologiya
+
+    - text: Андрология
+      link: /library/andrologiia
+
+    - text: Анестезиология
+      link: /library/anestesiologia
+
+    - text: Венерология
+      link: /library/venerologiya
+
+    - text: Гастроэнтерология
+      link: /library/gastroenterologiya
+
+    - text: Гематология
+      link: /library/gematologia
+
+    - text: Гепатология
+      link: /library/gepatologia
+
+    - text: Гинекология
+      link: /library/ginekologiya
+
+    - text: Гомеопатия
+      link: /library/gomeopatia
+
+    - text: Дерматология
+      link: /library/dermatologiya
+
+    - text: Диетология
+      link: /library/dietologiia
+
+    - text: Иммунология
+      link: /library/immunologia
+
+    - text: Инфектология
+      link: /library/infectologia
+
+    - text: Кардиология
+      link: /library/kardiologiya
+
+    - text: Косметология
+      link: /library/kosmetologiia
+
+    - text: Логопедия
+      link: /library/logopediia
+
+    - text: Маммология
+      link: /library/mammologiya
+
+    - text: Мануальная терапия
+      link: /library/manualnaiia_terapiia
+
+    - text: Массаж
+      link: /library/massazh
+
+    - text: Наркология
+      link: /library/narkologiia
+
+    - text: Неврология
+      link: /library/nevrologiya
+
+    - text: Нефрология
+      link: /library/nefrologia
+
+    - text: Онкология
+      link: /library/onkologiia
+
+    - text: Ортопедия
+      link: /library/ortopediia
+
+    - text: Отоларингология
+      link: /library/otolaringologiia
+
+    - text: Офтальмология
+      link: /library/oftalmologiia
+
+    - text: Педиатрия
+      link: /library/pediatriya
+
+    - text: Пластическая хирургия
+      link: /library/plasticheskaiia_khirurgiia
+
+    - text: Проктология
+      link: /library/proktologiia
+
+    - text: Психиатрия
+      link: /library/psikhiatriia
+
+    - text: Психология
+      link: /library/psikhologiia
+
+    - text: Психотерапия
+      link: /library/psikhoterapiia
+
+    - text: Пульмонология
+      link: /library/pulmonologia
+
+    - text: Ревматология
+      link: /library/revmatologia
+
+    - text: Репродуктология
+      link: /library/reproduktologiia
+
+    - text: Сексология
+      link: /library/seksologia
+
+    - text: Стоматология
+      link: /library/stomatologiya
+
+    - text: Терапия
+      link: /library/terapevtiya
+
+    - text: Трихология
+      link: /library/trikhologiia
+
+    - text: УЗ-диагностика
+      link: /library/uz_diagnostika
+
+    - text: Урология
+      link: /library/urologiya
+
+    - text: Флебология
+      link: /library/flebologiya
+
+    - text: Хирургия
+      link: /library/khirurgiia
+
+    - text: Эндокринология
+      link: /library/endokrinologiia
